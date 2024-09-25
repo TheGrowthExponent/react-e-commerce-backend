@@ -5,6 +5,7 @@ The backend for [React E-Commerce Frontend](https://github.com/Mini-Sylar/react-
 - Clone this repo
 - run ```npm install```
 - run ```npm run dev``` to run locally
+- run ```npm start``` to run in production
 
 ## Advantages
 - Get a simple starter template for building an e-commerce product (Educational Purposes)
